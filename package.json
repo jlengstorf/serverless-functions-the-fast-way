@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/jlengstorf/serverless-functions-the-fast-way#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
